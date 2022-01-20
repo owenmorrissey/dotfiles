@@ -1,0 +1,9 @@
+[2022-01-19 21:50:26.354] [renderer1] [info] Starting extension host with pid 480044.
+[2022-01-19 21:50:26.354] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 28 ms.
+[2022-01-19 21:50:27.572] [renderer1] [error] [Extension Host] (node:480044) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-19 21:53:15.207] [renderer1] [info] Starting extension host with pid 480882.
+[2022-01-19 21:53:15.208] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 25 ms.
+[2022-01-19 21:53:15.902] [renderer1] [error] [Extension Host] (node:480882) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-19 22:23:38.323] [renderer1] [error] An unknown error occurred. Please consult the log for more details.

@@ -1,0 +1,36 @@
+Validating found git in: git
+Using git 2.34.1 from git
+> git rev-parse --git-dir
+Open repository: /home/owen/projects/blockchain/quad-voting
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :README.md
+> git ls-files --stage -- /home/owen/projects/blockchain/quad-voting/README.md
+> git cat-file -s f56aed6558da9a91032618cf0a2f89a2e154c30a
+> git show --textconv :README.md
+> git ls-files --stage -- /home/owen/projects/blockchain/quad-voting/README.md
+> git cat-file -s f56aed6558da9a91032618cf0a2f89a2e154c30a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/owen/projects/blockchain/quad-voting/README.md
+> git show --textconv :README.md
+> git ls-files --stage -- /home/owen/projects/blockchain/quad-voting/README.md
+> git cat-file -s f56aed6558da9a91032618cf0a2f89a2e154c30a
+> git show --textconv :README.md
+> git ls-files --stage -- /home/owen/projects/blockchain/quad-voting/README.md
+> git cat-file -s f56aed6558da9a91032618cf0a2f89a2e154c30a

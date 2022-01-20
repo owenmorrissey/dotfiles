@@ -1,0 +1,28 @@
+[2022-01-19 18:42:31.852] [renderer1] [info] Starting extension host with pid 461036.
+[2022-01-19 18:42:31.853] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 24 ms.
+[2022-01-19 18:42:33.330] [renderer1] [error] [Extension Host] (node:461036) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-19 18:43:50.495] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-01-19 18:47:15.310] [renderer1] [info] Starting extension host with pid 462590.
+[2022-01-19 18:47:15.310] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 26 ms.
+[2022-01-19 18:47:16.081] [renderer1] [error] [Extension Host] (node:462590) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-19 18:51:45.068] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-01-19 18:53:15.385] [renderer1] [info] Enabling inspect port on extension host with pid 462590.
+[2022-01-19 18:53:22.718] [renderer1] [warning] UNRESPONSIVE extension host, 'JuanBlanco.solidity' took 100% of 5242.944ms, saved PROFILE here: 'file:///tmp/exthost-d4f729.cpuprofile' [{"id":"gc","total":3573,"percentage":0},{"id":"JuanBlanco.solidity","total":5239169,"percentage":100}]
+[2022-01-19 18:59:44.898] [renderer1] [info] Starting extension host with pid 466197.
+[2022-01-19 18:59:44.927] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 25 ms.
+[2022-01-19 18:59:45.952] [renderer1] [error] [Extension Host] (node:466197) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-19 19:00:22.408] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/docker/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/docker/package.json'
+[2022-01-19 19:02:58.338] [renderer1] [error] Cannot refresh property when process is undefined: Error: Cannot refresh property when process is undefined
+    at k.refreshProperty (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1713:24164)
+    at ii.refreshProperty (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2756:8139)
+    at async ii._updateProcessCwd (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2755:968)
+[2022-01-19 19:03:19.724] [renderer1] [error] [Extension Host] Error: Repository not initialized
+	at O.run (/usr/lib/code/extensions/git/dist/main.js:2:990932)
+	at O.checkIgnore (/usr/lib/code/extensions/git/dist/main.js:2:989760)
+	at checkIgnoreSoon (/usr/lib/code/extensions/git/dist/main.js:2:905254)
+	at Timeout._onTimeout (/usr/lib/code/extensions/git/dist/main.js:2:909304)
+	at listOnTimeout (internal/timers.js:554:17)
+	at processTimers (internal/timers.js:497:7)

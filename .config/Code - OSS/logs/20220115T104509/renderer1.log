@@ -1,0 +1,35 @@
+[2022-01-15 10:45:13.026] [renderer1] [info] Starting extension host with pid 458079.
+[2022-01-15 10:45:13.027] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 25 ms.
+[2022-01-15 10:45:13.935] [renderer1] [error] [Extension Host] (node:458079) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-15 10:46:44.865] [renderer1] [info] Starting extension host with pid 458511.
+[2022-01-15 10:46:44.866] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 27 ms.
+[2022-01-15 10:46:45.578] [renderer1] [error] [Extension Host] (node:458511) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-15 10:48:57.924] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json'
+[2022-01-15 10:48:57.925] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/debug-auto-launch/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/debug-auto-launch/package.json'
+[2022-01-15 10:48:57.925] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-language-features/package.json'
+[2022-01-15 10:49:00.976] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json'
+[2022-01-15 10:49:00.978] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json'
+[2022-01-15 10:49:05.037] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json'
+[2022-01-15 10:49:05.037] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json'
+[2022-01-15 10:49:16.232] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json'
+[2022-01-15 10:49:16.232] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json'
+[2022-01-15 10:49:51.558] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json'
+[2022-01-15 10:49:51.561] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json'
+[2022-01-15 10:55:05.251] [renderer1] [info] Starting extension host with pid 460511.
+[2022-01-15 10:55:05.272] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 25 ms.
+[2022-01-15 10:55:06.232] [renderer1] [error] [Extension Host] (node:460511) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-15 11:12:51.535] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json'
+[2022-01-15 11:13:02.496] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json'
+[2022-01-15 11:13:02.496] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json'
+[2022-01-15 11:13:02.497] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json'
+[2022-01-15 11:13:02.497] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json'
+[2022-01-15 11:13:02.497] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json'
+[2022-01-15 11:13:03.434] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json'
+[2022-01-15 11:13:03.435] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json'
+[2022-01-15 11:13:04.461] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json'
+[2022-01-15 11:13:04.462] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json'
+[2022-01-15 11:13:06.195] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json'
+[2022-01-15 11:13:20.367] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json'

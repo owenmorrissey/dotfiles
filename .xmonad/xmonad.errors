@@ -1,0 +1,6 @@
+
+xmonad.hs:10:15: error:
+    lexical error in string/character literal at character '\n'
+   |
+10 | myFont = "xft:
+   |               ^

@@ -1,0 +1,9 @@
+{
+    "activateConsole": "Ctrl+J",
+    "activateSource": "Ctrl+K",
+    "goToNextChunk": "Ctrl+]",
+    "goToPrevChunk": "Ctrl+[",
+    "insertChunkR": "",
+    "insertChunkD3": "",
+    "insertChunkPython": "Ctrl+Alt+P"
+}

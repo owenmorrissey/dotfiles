@@ -1,0 +1,65 @@
+[2022-01-07 13:07:37.278] [exthost] [info] Extension host with pid 17618 started
+[2022-01-07 13:07:37.393] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-07 13:07:37.399] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-07 13:07:38.001] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-07 13:07:38.034] [exthost] [info] Eager extensions activated
+[2022-01-07 13:07:38.044] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-07 13:07:49.813] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-07 13:07:49.819] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-07 13:07:49.936] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-07 13:08:35.945] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-07 13:08:36.034] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-07 13:08:47.416] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onWalkthrough:pythonWelcome'
+[2022-01-07 13:08:57.050] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-07 13:09:52.206] [exthost] [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: false, activationEvent: '*'
+[2022-01-07 13:23:57.692] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-07 13:23:58.771] [exthost] [info] Extension host with pid 17618 exiting with code 0
+[2022-01-07 13:24:00.907] [exthost] [info] Extension host with pid 21024 started
+[2022-01-07 13:24:00.907] [exthost] [info] Skipping acquiring lock for /home/owen/.config/Code - OSS/User/workspaceStorage/3e67541fd9a00bcfc91ba21a192926b5.
+[2022-01-07 13:24:00.969] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-07 13:24:01.004] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-07 13:24:01.120] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-07 13:24:01.191] [exthost] [info] Eager extensions activated
+[2022-01-07 13:24:01.241] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-07 13:24:01.271] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-07 13:24:10.122] [exthost] [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: false, activationEvent: '*'
+[2022-01-07 13:24:12.181] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-01-07 13:24:12.263] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-01-07 13:24:12.639] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-01-07 13:24:17.721] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-07 13:24:17.750] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-07 13:24:17.806] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-07 13:24:17.837] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-07 13:27:55.567] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-07 13:27:56.578] [exthost] [info] Extension host with pid 21024 exiting with code 0
+[2022-01-07 13:27:58.012] [exthost] [info] Extension host with pid 21836 started
+[2022-01-07 13:27:58.012] [exthost] [info] Skipping acquiring lock for /home/owen/.config/Code - OSS/User/workspaceStorage/3e67541fd9a00bcfc91ba21a192926b5.
+[2022-01-07 13:27:58.155] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-01-07 13:27:58.168] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-01-07 13:27:58.216] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-07 13:27:58.219] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-07 13:27:58.412] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-07 13:27:58.460] [exthost] [info] Eager extensions activated
+[2022-01-07 13:27:58.765] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-07 13:27:58.768] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-07 13:27:59.233] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-01-07 13:28:03.916] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-07 13:28:03.918] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-07 13:28:03.937] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-01-07 13:28:03.949] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-07 13:28:05.246] [exthost] [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: false, activationEvent: '*'
+[2022-01-07 13:30:12.391] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-07 13:30:13.401] [exthost] [info] Extension host with pid 21836 exiting with code 0
+[2022-01-07 13:30:14.862] [exthost] [info] Extension host with pid 22334 started
+[2022-01-07 13:30:14.862] [exthost] [info] Skipping acquiring lock for /home/owen/.config/Code - OSS/User/workspaceStorage/3e67541fd9a00bcfc91ba21a192926b5.
+[2022-01-07 13:30:15.039] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-01-07 13:30:15.048] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-01-07 13:30:15.075] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-07 13:30:15.078] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-07 13:30:15.103] [exthost] [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: true, activationEvent: '*'
+[2022-01-07 13:30:16.074] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-01-07 13:30:16.085] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-07 13:30:16.142] [exthost] [info] Eager extensions activated
+[2022-01-07 13:30:16.223] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-07 13:30:51.912] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-07 13:30:52.934] [exthost] [info] Extension host with pid 22334 exiting with code 0

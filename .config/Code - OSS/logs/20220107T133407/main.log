@@ -1,0 +1,10 @@
+[2022-01-07 13:34:08.206] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-01-07 14:54:54.919] [main] [error] [uncaught exception in main]: Error: SharedProcess: crashed (detail: killed, code: 15)
+[2022-01-07 14:54:54.928] [main] [error] Error: SharedProcess: crashed (detail: killed, code: 15)
+    at /usr/lib/code/out/vs/code/electron-main/main.js:77:70408
+    at m.fire (/usr/lib/code/out/vs/code/electron-main/main.js:16:1712)
+    at /usr/lib/code/out/vs/code/electron-main/main.js:14:53160
+    at m.fire (/usr/lib/code/out/vs/code/electron-main/main.js:16:1712)
+    at Object.<anonymous> (/usr/lib/code/out/vs/code/electron-main/main.js:76:11720)
+    at Object.emit (events.js:327:22)
+[2022-01-07 14:54:54.938] [main] [error] CodeWindow: renderer process crashed (reason: killed, code: 15)

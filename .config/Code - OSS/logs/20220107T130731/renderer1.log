@@ -1,0 +1,55 @@
+[2022-01-07 13:07:36.308] [renderer1] [info] Starting extension host with pid 17618.
+[2022-01-07 13:07:36.308] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 11 ms.
+[2022-01-07 13:07:37.074] [renderer1] [error] [Extension Host] (node:17618) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-07 13:08:28.071] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/npm/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/npm/package.json'
+[2022-01-07 13:08:28.092] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/json-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/json-language-features/package.json'
+[2022-01-07 13:08:28.092] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/json/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/json/package.json'
+[2022-01-07 13:08:28.093] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/html-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/html-language-features/package.json'
+[2022-01-07 13:08:28.093] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/yaml/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/yaml/package.json'
+[2022-01-07 13:08:28.093] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json'
+[2022-01-07 13:08:28.094] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/html/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/html/package.json'
+[2022-01-07 13:08:28.094] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/css/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/css/package.json'
+[2022-01-07 13:08:28.095] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/markdown-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/markdown-basics/package.json'
+[2022-01-07 13:08:28.095] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/docker/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/docker/package.json'
+[2022-01-07 13:08:28.096] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/java/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/java/package.json'
+[2022-01-07 13:08:28.096] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json'
+[2022-01-07 13:08:28.096] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/log/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/log/package.json'
+[2022-01-07 13:08:28.097] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/configuration-editing/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/configuration-editing/package.json'
+[2022-01-07 13:08:28.097] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/make/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/make/package.json'
+[2022-01-07 13:08:28.098] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/debug-auto-launch/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/debug-auto-launch/package.json'
+[2022-01-07 13:08:28.098] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/handlebars/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/handlebars/package.json'
+[2022-01-07 13:08:28.099] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/go/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/go/package.json'
+[2022-01-07 13:08:28.099] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/bat/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/bat/package.json'
+[2022-01-07 13:08:28.100] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/less/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/less/package.json'
+[2022-01-07 13:08:28.100] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/clojure/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/clojure/package.json'
+[2022-01-07 13:08:28.100] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/emmet/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/emmet/package.json'
+[2022-01-07 13:08:28.101] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/coffeescript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/coffeescript/package.json'
+[2022-01-07 13:08:28.101] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/groovy/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/groovy/package.json'
+[2022-01-07 13:08:28.101] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json'
+[2022-01-07 13:08:28.103] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/shellscript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/shellscript/package.json'
+[2022-01-07 13:08:28.103] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/xml/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/xml/package.json'
+[2022-01-07 13:08:28.104] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/ini/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/ini/package.json'
+[2022-01-07 13:08:28.104] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json'
+[2022-01-07 13:08:28.105] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/lua/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/lua/package.json'
+[2022-01-07 13:08:28.106] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/python/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/python/package.json'
+[2022-01-07 13:08:28.113] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/fsharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/fsharp/package.json'
+[2022-01-07 13:08:28.114] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/hlsl/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/hlsl/package.json'
+[2022-01-07 13:08:28.115] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/merge-conflict/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/merge-conflict/package.json'
+[2022-01-07 13:08:28.115] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json'
+[2022-01-07 13:08:28.116] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-language-features/package.json'
+[2022-01-07 13:08:28.116] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/css-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/css-language-features/package.json'
+[2022-01-07 13:08:28.117] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json'
+[2022-01-07 13:08:28.117] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json'
+[2022-01-07 13:23:59.723] [renderer1] [info] Starting extension host with pid 21024.
+[2022-01-07 13:23:59.753] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 39 ms.
+[2022-01-07 13:24:00.667] [renderer1] [error] [Extension Host] (node:21024) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-07 13:27:57.143] [renderer1] [info] Starting extension host with pid 21836.
+[2022-01-07 13:27:57.145] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 32 ms.
+[2022-01-07 13:27:57.832] [renderer1] [error] [Extension Host] (node:21836) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-07 13:30:13.967] [renderer1] [info] Starting extension host with pid 22334.
+[2022-01-07 13:30:13.967] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 34 ms.
+[2022-01-07 13:30:14.662] [renderer1] [error] [Extension Host] (node:22334) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)

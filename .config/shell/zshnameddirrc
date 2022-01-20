@@ -1,0 +1,12 @@
+hash -d cac=/home/owen/.cache 
+hash -d cf=/home/owen/.config 
+hash -d D=/home/owen/Downloads 
+hash -d d=/home/owen/Documents 
+hash -d dt=/home/owen/.local/share 
+hash -d h=/home/owen 
+hash -d m=/home/owen/Music 
+hash -d mn=/mnt 
+hash -d pp=/home/owen/Pictures 
+hash -d sc=/home/owen/.local/bin 
+hash -d src=/home/owen/.local/src 
+hash -d vv=/home/owen/Videos 

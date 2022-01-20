@@ -1,0 +1,52 @@
+#!/bin/sh
+
+# Use neovim for vim if present.
+[ -x "$(command -v nvim)" ] && alias vim="nvim" vimdiff="nvim -d" && alias vi="nvim"
+
+# Verbosity and settings that you pretty much just always are going to want.
+alias cp="cp -iv"
+alias mv="mv -iv"
+alias alias mkd="mkdir -pv"
+alias ffmpeg="ffmpeg -hide_banner"
+#alias rm="rm -vI"
+#alias ytdl="youtube-dl --add-metadata -i"
+#alias yta="yt -x -f bestaudio/best"
+
+# Colorize commands when possible.
+alias ls="ls -hN --color=auto --group-directories-first"
+alias grep="grep --color=auto"
+alias diff="diff --color=auto"
+alias ccat="highlight --out-format=ansi"
+
+# These common commands are just too long! Abbreviate them.
+alias ka="killall"
+alias g="git"
+alias yt="youtube-viewer"
+alias sdn="sudo shutdown -h now"
+alias f="$FILE"
+alias e="$EDITOR"
+alias v="$EDITOR"
+alias p="sudo pacman"
+alias z="zathura"
+	# trem="transmission-remote"
+
+alias weath="less -S ${XDG_DATA_HOME:-$HOME/.local/share}/weatherreport"
+#alias tmux="tmux -f ${XDG_CONFIG_HOME:-$HOME/.config}/tmux/tmux.conf"
+#alias magit="nvim -c MagitOnly"
+#alias ref="shortcuts >/dev/null; source ${XDG_CONFIG_HOME:-$HOME/.config}/shortcutrc ; source ${XDG_CONFIG_HOME:-$HOME/.config}/zshnameddirrc"
+
+
+# Owen's aliases
+
+alias R="R --no-save --no-restore-data"
+alias la="ls -a"
+alias hw="ssh omorri01@homework.cs.tufts.edu"
+alias scratch="vim ~/.scratchpad.md"
+alias rm="echo 'Use trash instead! Not deleted:'"
+alias ivm="vim"
+alias jlab="jupyter lab"
+alias work="vim ~/vimwiki/research.wiki"
+
+
+# get rid of dash in command for sc-im if installed
+[ -x "$(command -v sc-im)" ] && alias scim="sc-im"

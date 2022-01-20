@@ -1,0 +1,30 @@
+[2022-01-07 13:08:31.479] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-01-07 13:08:32.390] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2022-01-07 13:08:35.830] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/owen/.config/Code - OSS/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.10.100
+[2022-01-07 13:08:38.290] [sharedprocess] [info] Extracted extension to /home/owen/.vscode-oss/extensions/.fa70e2d6-9758-47f9-a952-e93a34e86a98: ms-toolsai.jupyter
+[2022-01-07 13:08:38.363] [sharedprocess] [info] Renamed to /home/owen/.vscode-oss/extensions/ms-toolsai.jupyter-2021.10.100
+[2022-01-07 13:08:38.371] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2022-01-07 13:08:41.917] [sharedprocess] [info] Downloaded extension: ms-python.python /home/owen/.config/Code - OSS/CachedExtensionVSIXs/ms-python.python-2021.12.1559732655
+[2022-01-07 13:08:46.825] [sharedprocess] [info] Extracted extension to /home/owen/.vscode-oss/extensions/.853ce694-37df-4b6b-a2d8-b69aed61f6df: ms-python.python
+[2022-01-07 13:08:46.910] [sharedprocess] [info] Renamed to /home/owen/.vscode-oss/extensions/ms-python.python-2021.12.1559732655
+[2022-01-07 13:08:46.935] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-01-07 13:08:46.957] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-01-07 13:08:46.958] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-01-07 13:08:52.926] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2022-01-07 13:08:55.750] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/owen/.config/Code - OSS/CachedExtensionVSIXs/esbenp.prettier-vscode-9.1.0
+[2022-01-07 13:08:56.467] [sharedprocess] [info] Extracted extension to /home/owen/.vscode-oss/extensions/.18714791-efcb-48d7-b7b4-dda9dfb9d348: esbenp.prettier-vscode
+[2022-01-07 13:08:56.767] [sharedprocess] [info] Renamed to /home/owen/.vscode-oss/extensions/esbenp.prettier-vscode-9.1.0
+[2022-01-07 13:08:56.773] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2022-01-07 13:08:56.775] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
+[2022-01-07 13:09:09.417] [sharedprocess] [info] Installing extension: juanblanco.solidity
+[2022-01-07 13:09:18.561] [sharedprocess] [info] Downloaded extension: juanblanco.solidity /home/owen/.config/Code - OSS/CachedExtensionVSIXs/juanblanco.solidity-0.0.133
+[2022-01-07 13:09:27.388] [sharedprocess] [info] Extracted extension to /home/owen/.vscode-oss/extensions/.6f4826d7-7be4-4eb0-bb02-8f20f532fc53: juanblanco.solidity
+[2022-01-07 13:09:27.453] [sharedprocess] [info] Renamed to /home/owen/.vscode-oss/extensions/juanblanco.solidity-0.0.133
+[2022-01-07 13:09:27.460] [sharedprocess] [info] Extracting completed. juanblanco.solidity
+[2022-01-07 13:09:27.479] [sharedprocess] [info] Extension installed successfully: juanblanco.solidity
+[2022-01-07 13:09:50.735] [sharedprocess] [info] Installing extension: asvetliakov.vscode-neovim
+[2022-01-07 13:09:51.605] [sharedprocess] [info] Downloaded extension: asvetliakov.vscode-neovim /home/owen/.config/Code - OSS/CachedExtensionVSIXs/asvetliakov.vscode-neovim-0.0.83
+[2022-01-07 13:09:51.771] [sharedprocess] [info] Extracted extension to /home/owen/.vscode-oss/extensions/.a77b9768-7d2c-4fd7-8df3-defb9e523e7b: asvetliakov.vscode-neovim
+[2022-01-07 13:09:51.860] [sharedprocess] [info] Renamed to /home/owen/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.83
+[2022-01-07 13:09:51.870] [sharedprocess] [info] Extracting completed. asvetliakov.vscode-neovim
+[2022-01-07 13:09:51.880] [sharedprocess] [info] Extension installed successfully: asvetliakov.vscode-neovim
