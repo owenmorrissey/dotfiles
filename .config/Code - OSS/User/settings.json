@@ -1,8 +1,9 @@
 {
     "workbench.colorTheme": "Gruvbox Material Dark",
     "vscode-neovim.neovimExecutablePaths.linux": "/usr/bin/nvim",
-    "vscode-neovim.neovimInitVimPaths.linux": "~/.config/nvim/init.vim",
+    "vscode-neovim.neovimInitVimPaths.linux": "~/.config/nvim/vscode-init.vim",
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
-    "workbench.startupEditor": "none"
+    "workbench.startupEditor": "none",
+    "json.maxItemsComputed": 10000
 }

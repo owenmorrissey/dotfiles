@@ -14,6 +14,7 @@ vv="cd /home/owen/Videos && ls -a" \
 bun="cd ~/.config/nvim/bundle && ls -a" \
 res="cd ~/documents/resume && ls -a" \
 bet="cd ~/projects/betting/betsim && ls" \
+ra="cd ~/projects/betting/razor-bets/scraper && ls" \
 bf="$EDITOR /home/owen/.config/shell/bm-files" \
 bd="$EDITOR /home/owen/.config/shell/bm-dirs" \
 cfx="$EDITOR /home/owen/.config/x11/xresources" \
